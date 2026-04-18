@@ -1,76 +1,35 @@
-## Hi, I'm Anushka 👋
+# Hi, I'm Anushka 👋 
+### AI / GenAI Practitioner | Python Backend Developer
 
-I am an aspiring **AI / GenAI Practitioner** with a strong interest in building **practical, real-world AI applications** using Python and Large Language Models.
+> Passionate about building end-to-end AI systems, from RAG pipelines to autonomous agents.
 
-I focus on understanding how AI systems work end-to-end — from data handling and embeddings to LLM integration and application logic.
+---
 
+### 🛠️ Tech Stack
+- **AI Systems:** RAG, LangChain, Agentic Workflows, Prompt Engineering
+- **LLMs & APIs:** OpenAI, Groq(LLAMA), Gemini
+- **Backend:** Python, FastAPI, Django, REST APIs, SQL
 
+---
 
-### 🧠 Areas of Interest
-- Generative AI & Large Language Models (LLMs)
-- AI Agents and Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- Applied Machine Learning (foundations)
+### 🚀 Featured AI Projects
 
+#### 📄 [Research Agent](https://github.com/anushkapundir1/ai-research-agent)
+**A RAG-powered agent that automates deep-dive information gathering.**
+- Tech Stack: ![LangChain](https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=green) ![Python](https://img.shields.io/badge/Python-grey) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![ChromaDB](https://img.shields.io/badge/ChromaDB-yellow) ![GROQ](https://img.shields.io/badge/GROQ-white) ![RAG](https://img.shields.io/badge/RAG-lightpink)
+- **Key Feature:** Implemented a self-correcting retrieval loop to verify data accuracy.
+- Optimized inference using Groq (~2x faster responses)
 
+#### 📄 [Document Intelligence System](https://github.com/anushkapundir1/groq-pdf-Chatbot)
+**Enterprise-grade RAG pipeline for high-precision PDF interrogation.**
+- Tech Stack: ![LangChain](https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=green) ![Python](https://img.shields.io/badge/Python-grey) ![RAG](https://img.shields.io/badge/RAG-005571?logo=RAG) ![GROQ](https://img.shields.io/badge/GROQ-yellow)
+- **Key Feature:** Optimized retrieval by 25% through advanced text chunking and semantic embedding strategies. 
+- **Logic:** Integrated Groq LLAMA API for high-speed inference on large-scale document datasets.
 
-### 🛠️ Technical Skills
-- **Languages:** Python, SQL
-- **AI / GenAI:** LangChain, Prompt Engineering, LLM APIs  
-- **Concepts:** RAG, Embeddings, Vector Search  
-- **Backend:** Django, Basic Flask  
-- **Tools:** Git, GitHub  
-
-
-### 🚀 Featured Projects
-
-#### 📄 Groq PDF Chatbot
-An LLM-powered document question-answering system that allows users to
-upload PDF files and ask natural language questions.
-
-**Highlights:**
-- PDF parsing and text chunking
-- Embedding-based semantic search
-- Context-aware responses using an LLM
-- End-to-end RAG pipeline implementation
-
-**Tech:** Python, Streamlit, LangChain, LLM API
+---
 
 
+### 📫 Let's Connect!
 
-#### 🏥 Health AI Agent
-A rule-based and AI-assisted health guidance system designed to provide
-basic insights based on user inputs.
-
-**Highlights:**
-- Structured input handling
-- AI-assisted response generation
-- Focus on logic design and AI integration
-
-**Tech:** Python, Streamlit, AI APIs
-
-
-
-#### 🌾 Kisan AI Mitra
-A farmer-assistance system designed to provide agricultural guidance
-using rule-based logic and AI-assisted responses.
-
-**Highlights:**
-- Farmer-friendly problem input handling
-- Crop and farming-related guidance logic
-- AI-assisted recommendations for better decision support
-- Focus on accessibility and real-world rural use cases
-
-**Tech:** Python, Django, Gemini Vision APIs, Rule-based logic
-
-
-
-### 🎯 What I'm Looking For
-I am actively seeking **AI / GenAI Internship opportunities** where I can:
-- Work on real-world AI problems
-- Improve my understanding of AI system design
-- Learn from industry professionals and contribute meaningfully to projects
-
-
-
-📫 **GitHub:** https://github.com/anushkapundir1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka%20Pundir-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-pundir/)
+[![Email](https://img.shields.io/badge/Email-anushkapundir70%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anushkapundir70@gmail.com)
